@@ -30,7 +30,7 @@ public class Post {
     private Author author;
     @Version
     private Long version;
-
+    //search
     public Post() {
         super();
     }
